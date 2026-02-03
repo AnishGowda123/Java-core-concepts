@@ -10,6 +10,3 @@ public class operator {
         System.out.println(a/b);
     }
 }
-
-
-
