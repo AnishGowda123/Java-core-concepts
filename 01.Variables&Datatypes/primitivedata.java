@@ -12,10 +12,5 @@ public class primitivedata {
         System.out.println("float number is="+e);
         System.out.println("double number is="+f);
         System.out.println("boolean value is="+g);
-
-
     }
 }
-
-
-
